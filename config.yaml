@@ -1,0 +1,4 @@
+DmaapIp: "192.168.101.137"
+DmaapPort: "3904"
+DmaapTopic: ""
+CatalogueServiceUrl: "https://192.168.101.137:8633/services/ranslice-scale-control"
