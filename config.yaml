@@ -1,4 +1,4 @@
-DmaapIp: "192.168.101.137"
-DmaapPort: "3904"
-DmaapTopic: ""
+DmaapUrl: "http://192.168.101.137:3904"
+DmaapTopic: "RAN-SLICE-SYNC"
+NfvoUrl: "192.168.101.137:31888"
 CatalogueServiceUrl: "https://192.168.101.137:8633/services/ranslice-scale-control"

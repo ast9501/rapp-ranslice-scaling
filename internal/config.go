@@ -8,9 +8,8 @@ import (
 )
 
 type Conf struct {
-	DmaapIp             string `yaml:"DmaapIp"`
-	DmaapPort           string `yaml:"DmaapPort"`
-	DmaapTopic          string `yaml:"Topic"`
+	DmaapUrl            string `yaml:"DmaapUrl"`
+	DmaapTopic          string `yaml:"DmaapTopic"`
 	CatalogueServiceUrl string `yaml:"CatalogueServiceUrl"`
 }
 
