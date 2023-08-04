@@ -1,4 +1,5 @@
-DmaapUrl: "http://192.168.101.137:3904"
+DmaapUrl: "http://192.168.101.136:31413"
 DmaapTopic: "RAN-SLICE-SYNC"
-NfvoUrl: "192.168.101.137:31888"
-CatalogueServiceUrl: "https://192.168.101.137:8633/services/ranslice-scale-control"
+NfvoUrl: "192.168.101.136:31888"
+VnfmUrl: "192.168.101.128:31999"
+CatalogueServiceUrl: "http://192.168.101.136:32290/services/ranslice-scale-control" #"https://192.168.101.137:8633/services/ranslice-scale-control"

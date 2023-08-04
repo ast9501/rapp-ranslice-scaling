@@ -11,6 +11,8 @@ type Conf struct {
 	DmaapUrl            string `yaml:"DmaapUrl"`
 	DmaapTopic          string `yaml:"DmaapTopic"`
 	CatalogueServiceUrl string `yaml:"CatalogueServiceUrl"`
+	NfvoUrl				string `yaml:"NfvoUrl"`
+	VnfmUrl				string `yaml:"VnfmUrl"`
 }
 
 func (c *Conf) ReadConf() *Conf {
